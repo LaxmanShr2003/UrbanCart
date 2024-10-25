@@ -1,0 +1,1 @@
+{"version":3,"file":"messageFormater.js","sourceRoot":"","sources":["../../src/lib/messageFormater.ts"],"names":[],"mappings":";;;AAAO,IAAM,aAAa,GAAC,UACvB,MAAc,EACd,IAAS,EACT,OAAe,EACf,MAAW;IAGZ,OAAO;QACN,OAAO,EAAE,MAAM;QACf,IAAI,EAAC,IAAI;QACT,MAAM,EAAE,MAAM;QACd,OAAO,EAAC,OAAO;KACf,CAAA;AAEJ,CAAC,CAAA;AAdY,QAAA,aAAa,iBAczB"}
